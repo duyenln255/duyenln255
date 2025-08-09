@@ -4,7 +4,7 @@
 📍 Ho Chi Minh City, Vietnam | ✉️ duyenln25@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/duyenlengoc)
 
 ## 🚀 About Me
-- 🎓 **BSc in Computer Science** – HCMUT (English-taught program)
+- 🎓 **BSc in Computer Science** – Ho Chi Minh City University of Technology (English-taught program)
 - 💻 1 year of experience as a Frontend Engineer
   
 ## 🛠 Tech Stack
