@@ -6,7 +6,6 @@
 ## 🚀 About Me
 - 🎓 **BSc in Computer Science** – HCMUT (English-taught program)
 - 💻 1 year of experience building **scalable web apps** in Agile teams
-- 🌱 Interested in **cloud-native apps, system design, and AI integration**
 
 ## 🛠 Tech Stack
 
