@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Duyen Lê
+# 👋 Hi, I'm Duyen Le Ngọc
 
-🎯 **Frontend Developer** | Aspiring **Fullstack Engineer (React + Golang)**  
+🎯 **Frontend Developer** | Aspiring **Fullstack Engineer**  
 📍 Ho Chi Minh City, Vietnam | ✉️ duyenln25@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/duyenlengoc)  
 
 ---
