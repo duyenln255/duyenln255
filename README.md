@@ -1,16 +1,12 @@
 # 👋 Hi, I'm Duyen Le Ngọc
 
 🎯 **Frontend Developer** | Aspiring **Fullstack Engineer**  
-📍 Ho Chi Minh City, Vietnam | ✉️ duyenln25@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/duyenlengoc)  
-
----
+📍 Ho Chi Minh City, Vietnam | ✉️ duyenln25@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/duyenlengoc)
 
 ## 🚀 About Me
 - 🎓 **BSc in Computer Science** – HCMUT (English-taught program)
 - 💻 1 year of experience building **scalable web apps** in Agile teams
 - 🌱 Interested in **cloud-native apps, system design, and AI integration**
-
----
 
 ## 🛠 Tech Stack
 
