@@ -5,8 +5,8 @@
 
 ## 🚀 About Me
 - 🎓 **BSc in Computer Science** – HCMUT (English-taught program)
-- 💻 1 year of experience as a Frontend Engineer in an Agile environment
-
+- 💻 1 year of experience as a Frontend Engineer
+  
 ## 🛠 Tech Stack
 
 **Frontend:**  
