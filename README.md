@@ -17,6 +17,9 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=flat&logo=testing-library&logoColor=white)
 ![GraphQL Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=flat&logo=apollographql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 **Backend:**  
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
