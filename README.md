@@ -51,11 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duyenln255&layout=compact&theme=tokyonight)
-
----
-
 💬 **Let's connect!**  
 📧 Email: duyenln25@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/duyenlengoc)
