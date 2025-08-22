@@ -52,5 +52,5 @@
 ---
 
 💬 **Let's connect!**  
-📧 Email: duyenln25@gmail.com  
+📧 Email: duyenln25@gmail.com | duyenle255124@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/duyenlengoc)
